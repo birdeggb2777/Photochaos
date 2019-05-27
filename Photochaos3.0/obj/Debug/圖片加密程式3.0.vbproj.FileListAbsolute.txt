@@ -1,0 +1,11 @@
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\bin\Debug\圖片加密程式3.0.exe.config
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\bin\Debug\圖片加密程式3.0.exe
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\bin\Debug\圖片加密程式3.0.pdb
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\bin\Debug\圖片加密程式3.0.xml
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3.0.vbprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3._0.Form1.resources
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3._0.Resources.resources
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3.0.vbproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3.0.exe
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3.0.xml
+C:\Users\VIP\Desktop\圖片加密程式3.0\圖片加密程式3.0\obj\Debug\圖片加密程式3.0.pdb
